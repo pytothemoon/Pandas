@@ -1,0 +1,40 @@
+서버명,OS,CPU,RAM,HDD,내부IP,외부IP,(정)담당자,"하위
+서비스명",랙위치,비고
+농정업데이트 서버,윈도우서버 2012R2,INTEL Xeon E3-1230 3.30HZ,DDR 3 8GB,900GB,192.168.1.140,14.36.57.59,정연창 대리,,,
+라이브 커머스 크롤링서버,윈도우 10 Enterprise,intel(R) Core(TM) i7-2600 CPU @ 3.40GHZ,DDR 3 8GB,"HDD 1 : 487GB
+HDD 2 : 1.34TB
+HDD 3 : 1.8",192.168.1.197,,김병권 부장,,,
+라이브커머스 개발 서버,CentOS,Intel(R) Xeon(R) CPU E3-1230 v6 @ 3.50GHz,DDR4 32GB,HDD 917GB,192.168.1.170,210.103.137.235,김병권 부장,,,
+창원시 서버,windows server 2012 R2,intel(R) Core(TM) i5-4440 CPU @ 3.10GHZ,DDR 3 32GB,"HDD 1 : 120GB
+HDD 2 : 1TB",192.168.1.125,,안주연 대리,,,
+빙고 개발 및 운영 서버,Windows 10 Enterprise,intel(R) Core(TM) i7-4770 CPU @ 3.10GHZ,ddr3 8GB,HDD 2TB,192.168.1.183,210.103.137.225,김민재 사원,,,
+화성시청 개발서버,windows server 2016,INTEL Xeon E5-2620 2.10GHz,ddr3 16GB,HDD 512GB,192.168.1.116,14.36.57.59,김수재 대리,,,
+김해시 개발DB서버,centos7,INTEL Xeon E5-2620 2.10GHz,ddr3 8GB,HDD 500GB,192.168.1.166,14.36.57.59,김수재 대리,,,
+김해시 개발 WAS서버,windows server 2016,NTEL Xeon E5-2620 2.10GHz,ddr3 16GB,HDD 60GB,192.168.1.165,14.36.57.59,김수재 대리,,,
+HPMAP,Windows 10 Enterprise,INTEL Core i5-6500 3.20GHz,ddr3 32GB,SSD 256 HDD 1024GB,192.168.1.163,14.36.57.57,김수재 대리,,,
+구로구사회복지협의회,Windows 10 Enterprise,INTEL Core i7-4770,ddr3 16GB,"HDD1 120GB
+HDD2 1TB
+HDD3 890GB
+HDD4 890GB",192.168.1.152,14.36.57.54,이진욱대리,"CentOS_6.10 경기도청 아파치 테스트(192.168.1.193)
+CentOS_6.10 경기도청 톰캣 테스트(192.168.1.194)
+경기도청 빅데이터 분석서비스(192.168.1.192)
+대구 빅데이터기반 통계분석시스템(192.168.1.196)
+파이썬 수집프로그램 (192.168.1.198)",,
+시흥개발서버,Windows 7 PRO,INTEL Xeon E5-2620,ddr3 128GB,"HDD1 570GB
+HDD2 410GB
+HDD3 6.5TB",192.168.1.144,14.46.57.49,이진욱대리,"본대구 / DIP 개발DB(192.168.1.209)
+본대구 카이네스사 주소정제 솔루션(G-VIA) 개발서버(192.168.1.215)",,
+충주시 개발 & 화성시 VM관리 서버,Windows 7 PRO,INTEL Xeon E5-2620,ddr3 32GB,"HDD1 300GB
+HDD2 640GB",192.168.1.115,,이진욱대리,,,
+"PMS,RODS운영 및 WAS & 개발 DB서버",Windwos Server 2008,INTEL Xeon X3430,ddr3 4GB,"HDD1 120GB
+HDD2 256GB
+HDD3 120GB",192.168.1.222,14.36.57.55,이진욱 대리,,,
+"HPMAP 기술지원 홈페이지 운영WAS,DB서버",Windows 10 Enterprise,INTEL Core i5-6500,ddr3 32GB,"HDD1 256GB
+HDD2 1TB",192.168.1.163,14.36.57.57,이진욱 대리,,,
+"세종텔레콤 선로관리시스템 개발WEB,WAS,DB서버",CentOS 6.9 Final,INTEL Core i5-6500,ddr3 32GB,"HDD1  1TB 
+HDD2  256GB",192.168.1.149,없음,이진욱대리,,,
+"신보/Bingo(구 BDSS, 구BIGTOUR)",Windows 10 Enterprise,INTEL Core i7-4770,ddr3 8GB,"디스크0: (C: 2TB) 
+디스크1: (미할당 2TB,초기화 필요)",192.168.1.183,210.103.137.232,이진욱 대리,,,
+인천개발DB/ Geoserver 테스트/ 주소정제 개발서버,Windows 10 Enterprise,INTEL Core i7-4770,ddr3 16GB,"디스크0 (D: 1TB) 
+디스크1: (E: 1TB) 
+디스크2: (C: 120GB)",192.168.1.127,210.103.137.239,이진욱 대리,,,
